@@ -12,3 +12,53 @@ html {
   background: var(--secondary);
   color: var(--primary);
 }
+
+html {
+  width: 30%;
+  border: 2px solid black;
+  font-family: DIN condensed;
+}
+
+h1 {
+  padding: 15px;
+  background-color: #134913;
+  padding-background: 30px;
+  color: white;
+  font-size: 30px;
+  text-align: center
+}
+
+h2 {
+  
+  text-align: center;
+  font-size: 25px; 
+  color: #134913
+  
+}
+
+p {
+
+  text-align: center;
+  padding: 20px;
+}
+
+table {
+  padding-right: 45px;
+}
+
+img {
+  padding-left:45px;
+}
+
+.button {
+  background-color: #134913;
+  border: none;
+  color: white;
+  padding: 15px 160px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 10px 2px;
+  cursor: pointer;
+}
